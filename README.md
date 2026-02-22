@@ -11,7 +11,6 @@
 ---
 
 ## About Me
-
 ```yaml
 name       : Sourabh Pandey
 location   : Indore, Madhya Pradesh, India
@@ -77,8 +76,10 @@ focus      : Full-Stack Development, AI integrations, DevOps
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 ## GitHub Stats
 
 <div align="center">
@@ -107,7 +108,7 @@ focus      : Full-Stack Development, AI integrations, DevOps
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0sourabh&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0sourabh&theme=tokyo-night&area=true)](https://github.com/0sourabh)
 
 </div>
 
