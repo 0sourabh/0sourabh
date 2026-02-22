@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Sourabh+Pandey;Head+of+AI+%26+Automation;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!!+I'm+Sourabh+Pandey;Head+of+AI+%26+Automation+%7C+The+Hustle+House;Full+Stack+Developer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-narayan-pandey-8bb745342/)
 [![GitHub followers](https://img.shields.io/github/followers/0sourabh?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/0sourabh)
@@ -18,7 +18,6 @@ location   : Indore, Madhya Pradesh, India
 current    : Head of AI & Automation @ The Hustle House
 stacks     : React, Node.js, Python, FastAPI, MongoDB
 focus      : Full-Stack Development, AI integrations, DevOps
-open_to    : Freelance  |  Full-time Roles  |  Collaborations
 ```
 
 ---
