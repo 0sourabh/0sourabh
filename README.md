@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey!!+I'm+Sourabh+Pandey;Head+of+AI+%26+Automation+%7C+The+Hustle+House;Full+Stack+Developer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-narayan-pandey-8bb745342/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-ai-engineer/)
 [![GitHub followers](https://img.shields.io/github/followers/0sourabh?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/0sourabh)
 [![Profile Views](https://komarev.com/ghpvc/?username=0sourabh&style=for-the-badge&color=000000)](https://github.com/0sourabh)
 
@@ -79,22 +79,16 @@ focus      : Full-Stack Development, AI integrations, DevOps
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0sourabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0sourabh&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0sourabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0sourabh&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=0sourabh&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0sourabh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## Featured Projects
@@ -124,7 +118,7 @@ focus      : Full-Stack Development, AI integrations, DevOps
 
 **Open to exciting projects, collaborations, and opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-narayan-pandey-8bb745342/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-ai-engineer/)
 
 </div>
 
